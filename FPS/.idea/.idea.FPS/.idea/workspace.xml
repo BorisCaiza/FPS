@@ -11,9 +11,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerInteractions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/World/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon/WeaponSway.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon/Gun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayermOvement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon/Shoot.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="27zsZuHX12dZc6XomhCl7eC71wM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650334313505</updated>
       <workItem from="1650334324299" duration="6588000" />
+      <workItem from="1650402884107" duration="5125000" />
     </task>
     <servers />
   </component>

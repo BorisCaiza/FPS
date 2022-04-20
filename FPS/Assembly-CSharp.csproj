@@ -52,13 +52,18 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Nokobot\Modern Guns - Handgun\_Demo Assets\SimpleShoot.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraLook.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
-     <Compile Include="Assets\Scripts\Camera\CameraLook.cs" />
-     <Compile Include="Assets\Scripts\Player\PlayermOvement.cs" />
-     <Compile Include="Assets\Nokobot\Modern Guns - Handgun\_Demo Assets\SimpleShoot.cs" />
-     <Compile Include="Assets\Scripts\Weapon\Shoot.cs" />
      <Compile Include="Assets\Scripts\Weapon\Bullet.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayermOvement.cs" />
+     <Compile Include="Assets\Scripts\Weapon\Gun.cs" />
+     <Compile Include="Assets\Scripts\AI\ai.cs" />
+     <Compile Include="Assets\Scripts\Weapon\WeaponSway.cs" />
+     <Compile Include="Assets\Scripts\World\AmmoBox.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerInteractions.cs" />
+     <Compile Include="Assets\Scripts\World\GameManager.cs" />
      <None Include="Assets\Nokobot\Modern Guns - Handgun\README.txt" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
