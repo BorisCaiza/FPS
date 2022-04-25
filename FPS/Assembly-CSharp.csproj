@@ -61,10 +61,10 @@
      <Compile Include="Assets\Scripts\World\AmmoBox.cs" />
      <Compile Include="Assets\Scripts\AI\ai.cs" />
      <Compile Include="Assets\Scripts\Weapon\Bullet.cs" />
+     <Compile Include="Assets\Scripts\Weapon\Grenade.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerInteractions.cs" />
      <Compile Include="Assets\Scripts\Player\PlayermOvement.cs" />
      <Compile Include="Assets\Scripts\Weapon\Gun.cs" />
-     <Compile Include="Assets\Scripts\Weapon\Grenade.cs" />
      <Compile Include="Assets\Scripts\Weapon\ThrorGranada.cs" />
      <None Include="Assets\Nokobot\Modern Guns - Handgun\README.txt" />
  <Reference Include="UnityEngine">
