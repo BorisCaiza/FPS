@@ -6,6 +6,8 @@ TagManager:
   tags:
   - enemy
   - GunAmmo
+  - DeathFloor
+  - EnemyBullet
   layers:
   - Default
   - TransparentFX

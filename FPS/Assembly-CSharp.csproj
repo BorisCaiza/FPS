@@ -66,6 +66,8 @@
      <Compile Include="Assets\Scripts\Player\PlayermOvement.cs" />
      <Compile Include="Assets\Scripts\Weapon\Gun.cs" />
      <Compile Include="Assets\Scripts\Weapon\ThrorGranada.cs" />
+     <Compile Include="Assets\Scripts\AI\EnemyShoot.cs" />
+     <Compile Include="Assets\Scripts\AI\EnmyBullet.cs" />
      <None Include="Assets\Nokobot\Modern Guns - Handgun\README.txt" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
